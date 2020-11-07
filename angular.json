@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chocolate"
+    }
+  },
+  "defaultProject": "chocolate",
+  "cli": {
+    "analytics": "29b6c714-e338-4142-8b3f-dfe75e7f00f5"
+  }
 }
